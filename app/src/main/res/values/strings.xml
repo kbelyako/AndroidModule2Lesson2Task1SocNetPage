@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidModule2Lesson2Task1SocNetPage</string>
+    <string name="tv_AvatarContentDescription">Avatar photo</string>
+    <string name="nickname">nick</string>
+    <string name="country">country</string>
+    <string name="lastname">last name</string>
+    <string name="firstname">first name</string>
+    <string name="kenya">Kenya</string>
+    <string name="nairobi">Nairobi</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="tiger">Tiger</string>
+    <string name="puma">Puma</string>
+    <string name="cat">Cat</string>
+    <string name="lion53">Lion53</string>
+    <string name="kitty29">Kitty29</string>
+    <string name="city">city</string>
+    <string name="best_friends">Best friends</string>
+    <string name="leo">Leo</string>
+    <string name="motroskin">Motroskin</string>
+    <string name="simba">Simba</string>
+    <string name="friends">Friends-</string>
+    <string name="_111">111</string>
+</resources>
